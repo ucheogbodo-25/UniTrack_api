@@ -16,7 +16,7 @@ Clone the project:
 Change Directory:
 
 ```bash
-  cd kollege_api
+  cd UniTrack_api
 ```
 
 Install dependencies:
@@ -28,8 +28,8 @@ Install dependencies:
 Create a .env file and paste your MongoDB Database Key [(reference video)](https://m.youtube.com/watch?v=-PdjUx9JZ2E):
 
 ```javascript
-  DATABASE_URI = mongodb+srv:/username:password@.....mongodb.net/kollege
-  // you can give a name of your preference to database instead of kollege
+  DATABASE_URI = mongodb+srv:/username:password@.....mongodb.net/UniTrack
+  // you can give a name of your preference to database instead of UniTrack
 ```
 
 Start the server (node v.19+):
