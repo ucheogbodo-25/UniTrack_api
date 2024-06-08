@@ -1,22 +1,21 @@
-# UNITRACK API
+# KOLLEGE API
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-REST API for [UniTrack](https://github.com/ucheogbodo-25/UniTrack)
-
+REST API for [kollege](https://github.com/ucheogbodo-25/Kollge)
 
 ## Setting Up
 
 Clone the project:
 
 ```bash
-  git clone https://github.com/ucheogbodo-25/UniTrack_api.git
+  git clone https://github.com/ucheogbodo-25/Kollege_api.git
 ```
 
 Change Directory:
 
 ```bash
-  cd UniTrack_api
+  cd kollege_api
 ```
 
 Install dependencies:
@@ -28,8 +27,8 @@ Install dependencies:
 Create a .env file and paste your MongoDB Database Key [(reference video)](https://m.youtube.com/watch?v=-PdjUx9JZ2E):
 
 ```javascript
-  DATABASE_URI = mongodb+srv:/username:password@.....mongodb.net/UniTrack
-  // you can give a name of your preference to database instead of UniTrack
+  DATABASE_URI = mongodb+srv:/username:password@.....mongodb.net/kollege
+  // you can give a name of your preference to database instead of kollege
 ```
 
 Start the server (node v.19+):
@@ -85,7 +84,7 @@ Don't forget to comment out "|| !origin" Inside config/corsOptions.js after deve
     )
 ```
 
-Continue to [UniTrack Documentation](https://github.com/ucheogbodo-25/UniTrack/#readme)
+Continue to [Kollege Documentation](https://github.com/iafthab/kollege/#readme)
 
 ### Still getting errors?
 
@@ -103,7 +102,7 @@ const allowedOrigins = [
 
 Errors are bound to happen and the documentation is incomplete.  
 I'd love to hear feedbacks and suggestions.  
-In any case, start a conversation: [LinkedIn](https://www.linkedin.com/) [Telegram] [Mail](ucheogbodo25@gmail.com)(Make sure your mail doesn't get flagged as spam/junk)  
+In any case, start a conversation: [LinkedIn](https://www.linkedin.com/in/uche ogbodo) [Telegram](https://tttttt.me/LazySage01) [Mail](mailto:ucheogbodo-25@gmail.com)(Make sure your mail doesn't get flagged as spam/junk)  
 Thank You ❤️.
 
 ## Acknowledgements
@@ -112,7 +111,7 @@ Thank You ❤️.
 
 ## Related
 
-[UniTrack](https://github.com/ucheogbodo-25/UniTrack)
+[Kollege](https://github.com/iafthab/kollege)
 
 ## License
 
